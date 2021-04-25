@@ -47,7 +47,7 @@ min-width: 500px;
 const SecondsDiv = styled.div`
 margin: 2px;
 padding: 5px;
-animation: ${animation} 1s linear infinite 1s;
+animation: ${animation} 1s linear infinite;
 `
 
 //format time takes the date and makes it into an array of strings separated by the colon
